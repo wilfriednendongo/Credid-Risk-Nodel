@@ -1,6 +1,4 @@
 """
-Interactive credit risk demo for the presentation.
-
 Usage : streamlit run app.py      (then open the address it prints, usually http://localhost:8501)
 Needs : the saved models in models/ (run train_and_save.py once if they will not load)
 
