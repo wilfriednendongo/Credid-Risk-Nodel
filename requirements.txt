@@ -1,0 +1,12 @@
+# Versions used to produce the thesis results (Python 3.13). Newer versions usually work,
+# but exact reproduction of every number needs these.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+matplotlib==3.11.2
+joblib==1.6.0
+# For the walkthrough notebook and the web app
+jupyter
+streamlit
