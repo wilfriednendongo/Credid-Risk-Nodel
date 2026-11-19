@@ -1,6 +1,4 @@
 """
-Train the two credit risk models exactly as in the thesis and save them for demonstration.
-
 Usage : python train_and_save.py [path/to/german.data]
 
 Steps : stratified 80/20 split (seed 42) -> grid search with 5-fold CV on F1 for Bad Risk
