@@ -1,6 +1,4 @@
 """
-Score credit applicants with the saved models and explain each decision.
-
 Usage
   python predict.py --list                     show the ten sample applicants
   python predict.py --sample T115              score one sample applicant and explain it
