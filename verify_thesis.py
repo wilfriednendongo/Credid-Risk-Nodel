@@ -1,6 +1,4 @@
 """
-Check every quantitative claim in the thesis against what the code actually produces.
-
 Usage : python verify_thesis.py                     (uses experiments/outputs, shipped with the package)
         python verify_thesis.py --outputs DIR       (uses freshly regenerated experiment outputs)
 
