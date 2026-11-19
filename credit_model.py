@@ -1,6 +1,4 @@
 """
-Shared core of the credit risk model package.
-
 Holds the data definitions, the preprocessing and modelling pipeline, and the
 explanation helpers used by train_and_save.py, predict.py, app.py and the
 walkthrough notebook. The pipeline is identical to the one in
